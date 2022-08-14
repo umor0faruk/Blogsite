@@ -28,7 +28,7 @@
                 </div>
 
                 <div class="form-group">
-                    <label for="scat">Product Subcategory</label>
+                    <label for="scat">Sub Category</label>
                     <input type="text" name="scat" class="form-control">
                 </div>
                 
